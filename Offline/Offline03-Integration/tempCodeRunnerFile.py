@@ -1,0 +1,1 @@
+trapResult = trapezoidal(a, b, n)
